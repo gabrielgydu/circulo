@@ -32,30 +32,18 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
     - É impressionante. Se Cristo não tivesse dado esse poder aos sacerdotes, nós não nos atreveríamos a pensar que isso fosse possível.
 
 
-Caminho, 211
+- Caminho, 211
+    > "Enterra com a penitência, no fosso profundo que a tua humildade abrir, as tuas negligências, ofensas e pecados. - Assim enterra o lavrador, ao pé da árvore que os produziu, frutos apodrecidos, ramos secos e folhas caducas.
+    > E o que era estéril, melhor, o que era prejudicial, contribui eficazmente para uma nova fecundidade.
+    > Aprende a tirar das quedas, impulso; da morte, vida."
 
-"Enterra com a penitência, no fosso profundo que a tua humildade abrir, as tuas negligências, ofensas e pecados. - Assim enterra o lavrador, ao pé da árvore que os produziu, frutos apodrecidos, ramos secos e folhas caducas.
+- Caminho, 309
+    > Repara que entranhas de misericórdia tem a justiça de Deus! - Porque, nos julgamentos humanos, castiga-se a quem confessa a sua culpa; e no divino, perdoa-se.
+    > Bendito seja o santo Sacramento da Penitência!
 
-E o que era estéril, melhor, o que era prejudicial, contribui eficazmente para uma nova fecundidade.
-
-Aprende a tirar das quedas, impulso; da morte, vida."
-
-
-
-
-Caminho, 309
-
-Repara que entranhas de misericórdia tem a justiça de Deus! - Porque, nos julgamentos humanos, castiga-se a quem confessa a sua culpa; e no divino, perdoa-se.
-
-Bendito seja o santo Sacramento da Penitência!
-
-
-
-Caminho, 605
-
-Padre: como pode suportar todo este lixo?, disseste-me, depois de uma confissão contrita.
-
-- Calei-me, pensando que, se a tua humildade te leva a sentir-te assim - como lixo, um montão de lixo! -, ainda poderemos fazer algo de grande de toda a tua miséria.
+- Caminho, 605
+    > Padre: como pode suportar todo este lixo?, disseste-me, depois de uma confissão contrita.
+    > - Calei-me, pensando que, se a tua humildade te leva a sentir-te assim - como lixo, um montão de lixo! -, ainda poderemos fazer algo de grande de toda a tua miséria.
 
 
 

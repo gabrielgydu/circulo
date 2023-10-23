@@ -20,6 +20,13 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
 
 ## Comentário do Evangelho
 
+- Pede a Deus pra resolver um problema terrestre
+- Temos que pensar no que temos pedido à Deus
+- "Não tenho onde guardar minha colheita" porque já tinha celeiros cheios.
+- Buscava a segurança do dinheiro "descansar, comer beber... aproveitar"
+- Papa Francisco:
+    > “há um mistério na posse das riquezas. Elas têm a capacidade de seduzir, de nos levar a uma ilusão e de nos fazer acreditar que estamos num paraíso terreno. ... O apego às riquezas nos produz tristeza e nos faz estéreis. Digo apego, não digo administrar bem as riquezas porque as riquezas são para o bem comum, para todos. E se o Senhor as dá a uma pessoa é para que as empregue no bem de todos, não somente para si mesma, não para que as tranque em seu coração porque depressa ela se tornará corrupta e triste. As riquezas sem generosidade nos fazem acreditar que somos poderosos como Deus. Mas, no final, nos tiram o melhor, a esperança” (Papa Francisco, Homilia em Santa Marta, 25 de maio de 2015).
+
 
 ## Palestra: Confissão (fortaleza e humildade na vida cristã)
 
@@ -32,6 +39,7 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
 
     > “Como o Pai me enviou, assim também eu vos envio a vós”. Depois dessas palavras, soprou sobre eles dizendo-lhes: “Recebei o Espírito Santo; àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; àqueles a quem os retiverdes, ser-lhes ão retiros (Jo 20, 21-23).
 
+    - Deu ao sacerdote o poder de perdoar os pecados IN PERSONA CHRISTI
     - É impressionante. Se Cristo não tivesse dado esse poder aos sacerdotes, nós não nos atreveríamos a pensar que isso fosse possível.
 
 

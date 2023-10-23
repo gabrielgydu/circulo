@@ -48,8 +48,6 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
     - Santa Margarida Maria Alacoque
 
 - Católicos bem formados costumam procurar a confissão frequentemente e com devoção, para confessar os pecados veniais.
-
-
         - Além da graça santificante, o fato da confissão ser um sacramento confere uma graça sacramental.
 - A graça sacramental
     - Santo Tomás ensina que, depois de uma confissão bem feita o penitente pode sair do confessionário tendo na alma um grau mais elevado de graça, do que aquele que tinha antes de cair no pecado grave. Por isso, como é importante confessar-se com frequência!
@@ -59,7 +57,7 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
 
 #### A confissão dos pecados veniais
 
-    > «Apesar de não ser estritamente necessária – diz o Catecismo -, a confissão das faltas cotidianas (pecados veniais) é vivamente recomendada pela Igreja». A seguir dá quatro razões: «A confissão regular de nossos pecados veniais nos ajuda a formar a consciência, a lutar contra as nossas más tendências, a deixar-nos curar por Cristo, a progredir na vida do Espírito (na santidade)» (CIC, n. 1458).
+> «Apesar de não ser estritamente necessária – diz o Catecismo -, a confissão das faltas cotidianas (pecados veniais) é vivamente recomendada pela Igreja». A seguir dá quatro razões: «A confissão regular de nossos pecados veniais nos ajuda a formar a consciência, a lutar contra as nossas más tendências, a deixar-nos curar por Cristo, a progredir na vida do Espírito (na santidade)» (CIC, n. 1458).
 
 - Caminho, 211
     > "Enterra com a penitência, no fosso profundo que a tua humildade abrir, as tuas negligências, ofensas e pecados. - Assim enterra o lavrador, ao pé da árvore que os produziu, frutos apodrecidos, ramos secos e folhas caducas.

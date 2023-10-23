@@ -24,9 +24,12 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
 ## Palestra: Confissão (fortaleza e humildade na vida cristã)
 
 
-A Confissão é um os sete Sacramentos – também chamado de  Sacramento da Reconciliação ou da Penitência -, instituído por Jesus Cristo, quando, depois de ressuscitado, apareceu aos Apóstolos reunidos no Cenáculo e lhes disse: “Como o Pai me enviou, assim também eu vos envio a vós”. Depois dessas palavras, soprou sobre eles dizendo-lhes: “Recebei o Espírito Santo; àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; àqueles a quem os retiverdes, ser-lhes ão retiros (Jo 20, 21-23).
+- A Confissão é um os sete Sacramentos – também chamado de  Sacramento da Reconciliação ou da Penitência -, instituído por Jesus Cristo
+- depois de ressuscitado, apareceu aos Apóstolos reunidos no Cenáculo e lhes disse:
 
-- É impressionante. Se Cristo não tivesse dado esse poder aos sacerdotes, nós não nos atreveríamos a pensar que isso fosse possível.
+    > “Como o Pai me enviou, assim também eu vos envio a vós”. Depois dessas palavras, soprou sobre eles dizendo-lhes: “Recebei o Espírito Santo; àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; àqueles a quem os retiverdes, ser-lhes ão retiros (Jo 20, 21-23).
+
+    - É impressionante. Se Cristo não tivesse dado esse poder aos sacerdotes, nós não nos atreveríamos a pensar que isso fosse possível.
 
 
 Caminho, 211

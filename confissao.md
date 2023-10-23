@@ -23,6 +23,9 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
 
 ## Palestra: Confissão (fortaleza e humildade na vida cristã)
 
+- Caminho, 309
+    > Repara que entranhas de misericórdia tem a justiça de Deus! - Porque, nos julgamentos humanos, castiga-se a quem confessa a sua culpa; e no divino, perdoa-se.
+    > Bendito seja o santo Sacramento da Penitência!
 
 - A Confissão é um os sete Sacramentos – também chamado de  Sacramento da Reconciliação ou da Penitência -, instituído por Jesus Cristo
 - depois de ressuscitado, apareceu aos Apóstolos reunidos no Cenáculo e lhes disse:
@@ -40,15 +43,15 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
         - A confissão religa o ramo à videira, permite que a graça flua novamente.
             - Por isso devemos recorrer quanto antes à confissão quando se têm consciência de estar em pecado mortal e, portanto, ter perdido a graça de Deus.
 
-- Caminho, 309
-    > Repara que entranhas de misericórdia tem a justiça de Deus! - Porque, nos julgamentos humanos, castiga-se a quem confessa a sua culpa; e no divino, perdoa-se.
-    > Bendito seja o santo Sacramento da Penitência!
+- Forja, 192
+    > Se alguma vez cais, filho, acode prontamente à Confissão e à direção espiritual: mostra a ferida!, para que te curem a fundo, para que te tirem todas as possibilidades de infecção, mesmo que te doa como numa operação cirúrgica.
+
 
 - Após a confissão, Deus esquece dos nossos pecados.
     - Santa Margarida Maria Alacoque
 
 - Católicos bem formados costumam procurar a confissão frequentemente e com devoção, para confessar os pecados veniais.
-        - Além da graça santificante, o fato da confissão ser um sacramento confere uma graça sacramental.
+    - Além da graça santificante, o fato da confissão ser um sacramento confere uma graça sacramental.
 - A graça sacramental
     - Santo Tomás ensina que, depois de uma confissão bem feita o penitente pode sair do confessionário tendo na alma um grau mais elevado de graça, do que aquele que tinha antes de cair no pecado grave. Por isso, como é importante confessar-se com frequência!
         - Parábola do filho pródigo
@@ -57,7 +60,8 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
 
 #### A confissão dos pecados veniais
 
-> «Apesar de não ser estritamente necessária – diz o Catecismo -, a confissão das faltas cotidianas (pecados veniais) é vivamente recomendada pela Igreja». A seguir dá quatro razões: «A confissão regular de nossos pecados veniais nos ajuda a formar a consciência, a lutar contra as nossas más tendências, a deixar-nos curar por Cristo, a progredir na vida do Espírito (na santidade)» (CIC, n. 1458).
+> «Apesar de não ser estritamente necessária – diz o Catecismo -, a confissão das faltas cotidianas (pecados veniais) é vivamente recomendada pela Igreja».
+> «A confissão regular de nossos pecados veniais nos ajuda a formar a consciência, a lutar contra as nossas más tendências, a deixar-nos curar por Cristo, a progredir na vida do Espírito (na santidade)» (CIC, n. 1458).
 
 - Caminho, 211
     > "Enterra com a penitência, no fosso profundo que a tua humildade abrir, as tuas negligências, ofensas e pecados. - Assim enterra o lavrador, ao pé da árvore que os produziu, frutos apodrecidos, ramos secos e folhas caducas.
@@ -75,8 +79,7 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
 
 
 - Caminho, 605
-    > Padre: como pode suportar todo este lixo?, disseste-me, depois de uma confissão contrita.
-    > - Calei-me, pensando que, se a tua humildade te leva a sentir-te assim - como lixo, um montão de lixo! -, ainda poderemos fazer algo de grande de toda a tua miséria.
+    > Padre: como pode suportar todo este lixo?, disseste-me, depois de uma confissão contrita. - Calei-me, pensando que, se a tua humildade te leva a sentir-te assim - como lixo, um montão de lixo! -, ainda poderemos fazer algo de grande de toda a tua miséria.
 
 
 
@@ -90,42 +93,45 @@ Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante d
 
 ### Como fazer uma boa confissão?
 
-Atos do penitente:
-- Contrição
-- Exame de consciência
-- Confissão
-- Satisfação
-
-TODO
-
-- Oferecer uma intenção para a confissão
-    - Conversão do fulano
-    - Tia doente
-    - Vocações
-
-- Exame de consciência diário
-- Anotar
-- Manter periodicidade - pelo menos uma vez por mês
-- Levar dúvidas para a Direção Espiritual
-
-
-### Em que circunstâncias buscar a confissão
-
-1. o quanto antes, quando se tem consciência de se estar em pecado mortal e, portanto, ter perdido a graça de Deus
-2. frequentemente e com devoção (uma vez por mês, quinzenalmente, semanalmente) para confessar-se dos pecados veniais, que não nos privam da graça habitual
-
-
-
-- Forja, 192
-    > Se alguma vez cais, filho, acode prontamente à Confissão e à direção espiritual: mostra a ferida!, para que te curem a fundo, para que te tirem todas as possibilidades de infecção, mesmo que te doa como numa operação cirúrgica.
-
+- Atos do penitente:
+    - Exame de consciência
+        - Exame de consciência diário
+        - Anotar
+        - Levar dúvidas para a Direção
+    - Contrição
+        - Dor na alma por ter pecado
+        - Contrição perfeita
+        - Contrição imperfeita (atrição)
+            - Suficiente para a confissão
+        - Não é sentimento
+        - Pode-se fomentá-la
+    - Confissão
+        - Quatro C's
+            - Clara
+            - Completa
+                - Falar todos os pecados mortais e seu número e agravantes
+            - Concisa
+                - Não entrar em mil detalhes.
+                - Faltei a missa no domingo, tava voltando da praia...
+            - Concreta
+                - "queria me acusar de ira, soberba, preguiça"...
+                - ira pode ir de palavrão até assasinato
+        - Fórmula essencial para a validade
+        > "Eu te absolvo dos teus pecados em nome do Pai, e do Filho e do Espírito Santo» (41)."
+    - Satisfação
+        - Cumprir a penitência
+        - Pode pedir pra trocar a penitência
+        - Pode comungar antes de cumprir
+        - Oferecer uma intenção para a confissão
+            - Conversão do fulano
+            - Tia doente
+            - Vocações
 
 - Forja, 193
     > A sinceridade é indispensável para progredir na união com Deus.
     > - Se dentro de ti, meu filho, há um “sapo”, solta-o! Diz primeiro, como te aconselho sempre, o que não quererias que se soubesse. Depois que se soltou o “sapo” na Confissão, que bem se está!
 
 - Forja, 238
-
     > Deus seja louvado!, dizias de ti para ti depois de terminares a tua Confissão sacramental. E pensavas: é como se tivesse voltado a nascer.Depois, prosseguiste com serenidade: "Domine, quid me vis facere?" - Senhor, que queres que eu faça?- E tu mesmo te deste a resposta: - Com a tua graça, por cima de tudo e de todos, cumprirei a tua Santíssima Vontade: Serviam! - eu te servirei sem condições!
 
 

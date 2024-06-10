@@ -69,6 +69,7 @@ R/. Rogai por nós.
 - Um coração que ame desordenadamente as coisas da terra está como que preso por uma corrente, ou por um “fiozinho sutil”, que o impede de voar para Deus.
 
 - O pai de Santa Teresinha, São Luis Martin, uma vez ofereceu tudo a Deus e disse "O Senhor sempre de deu tudo de bom" e pediu um sofrimento.
+    - Mon Dieu, c'en est trop. Oui, je suis trop heureux. Il n'est pas possible d'aller au ciel comme cela. Je veux souffrir quelque chose pour vous. Et je me suis offert à lui. C'est quelque chose de très spécial, mais il sent que, le peu de temps qu'il lui reste à faire sur terre, il doit pouvoir aider des âmes, des âmes du purgatoire. Et il s'offre quelque part au Seigneur. Et bien le Seigneur va entendre sa prière. Il y a quelque temps déjà, il avait fait un petit AVC,
 
 - Desprendimento da honra
     - No início da Obra, havia muita maledicência contra a Obra, São Josemaria sofreu muito por isso, chamavam ele de louco, herege...

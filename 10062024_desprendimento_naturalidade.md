@@ -75,7 +75,11 @@ R/. Rogai por nós.
         - Ponto 803 de Forja: “Senhor, se Tu não precisas da minha honra, eu para que a quero?”. Até então, não sabe o filho de Deus o que é ser feliz: até chegar a essa nudez, a essa entrega, que é entrega de amor, mas fundada na mortificação, na dor.
 
 
-- Desprendimento dos nossos planos, dos nossos jeitos de fazer as coisas.
+- Desprendimento dos nossos planos
+    - É bom que criemos planos, mas se estivermos apegados à eles, podemos ficar com raiva de Deus
+    - estar pronto para aceitar os planos de Deus
+
+- dos nossos jeitos de fazer as coisas.
 
 - É mais fácil às vezes se desprender do material do que de ter razão em algo...
 
@@ -91,14 +95,29 @@ R/. Rogai por nós.
     - Em 12 Regras pra Vida, o Jordan Peterson conta
     - There's an old story about how to catch a monkey. An enticing cookie was put inside an open jar. The trap was designed so that the monkey could fit his hand inside the jar, but not pull his hand out while holding the cookie. Refusing to let go of the treat, meant that he remained stuck, leading to his capture. The moral of the story, is that meaningful goals, often require us to sacrifice immediate gratification. Pursuing what's expedient, works only in the moment.
 
-- Se não soubermos nos desprender das coisas podemos acabar como o macaco.
+- Podemos ser como esse macaco quando nos prendemos à algum bem material, a um salário maior
+    - Se não soubermos nos desprender das coisas podemos acabar como o macaco.
 
 - Desprendimento de Jesus na cruz a na Eucaristia, se nos entrega totalmente.
 
-
 - Como se desprender, na prática?
 
-Esmola, caridade
+- Exemplo: Toni Zweifel
+    - Foi um numerário da Obra que provinha de uma família rica
+    - tinha um carro esporte de dois lugares que seu pai lhe deu quando completou 18 anos.
+    - Tinha uma câmera fotográfica de alta qualidade para aquela época, luxo
+    - Tomava café diariamente de uma máquina construída para servir duas xícaras, que ele – como bom engenheiro e com um espírito um pouco individualista – adaptou para que despejasse o café em uma xícara só.
+    - Depois de se converter,
+        - desprendeu-se da máquina de fazer café, que qualificou então como uma expressão de seu egocentrismo.
+        - Colocou a câmera fotográfica a serviço da residência e
+        - o carro esportivo de dois lugares foi substituído por um de sete, que servia para muitas excursões com os outros residentes de Fluntern.
+        - não hesitava em abrir mão da direção do veículo a outros motoristas
+
+    - Toni cuidava bem de todos os instrumentos que manuseava para que durassem muito tempo. Para as excursões à montanha, usava o essencial: por exemplo, graças a um esmerado cuidado, utilizou a calça de caminhada e a jaqueta que herdara do seu avô até o final de sua vida.
+
+    - Reduziu as viagens profissionais ao mínimo indispensável. Investiu os milhões de sua herança em projetos altruístas, renunciando a qualquer uso pessoal.
+
+    - O desprendimento de Toni não se limitava a bens materiais. Na convivência com as outras pessoas, fomentava a serenidade. Por último, com admirável rapidez e serenidade, desprendeu-se de um dos mais elevados valores humanos: a saúde.
 
 Fazer mesmo que sinta como uma atuação
 
@@ -106,9 +125,6 @@ Fazer mesmo que sinta como uma atuação
     - Exemplo de apego.
         - Ele foi chamado por Jesus, mas não quis se desprender. Nós poderíamos saber o nome dele, mas ficou só "jovem rico"
 
-
-A nossa vida tem de ser uma dança com Deus, onde somos guiados por Ele. E para isso, é necessário o desprendimento.
-Desprendimento
 
 ## Exame
 

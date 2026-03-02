@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Circulo">
+<meta name="theme-color" content="#FFFFFF">
+<link rel="manifest" href="/circulo/manifest.webmanifest">
+<title>Circulo</title>
+<style>
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 17px;
+    line-height: 1.6;
+    color: #222;
+    padding: 1.5em;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  h1 { font-size: 1.4em; margin-bottom: 0.8em; }
+  a { color: #b00; text-decoration: none; display: block; padding: 0.6em 0; border-bottom: 1px solid #eee; }
+  a:hover { color: #800; }
+</style>
+</head>
+<body>
+<h1>Circulo</h1>
+<a href="20260302.html">02/03/2026 - Confissao + Santa Pureza</a>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/circulo/sw.js', { scope: '/circulo/' });
+  });
+}
+</script>
+</body>
+</html>

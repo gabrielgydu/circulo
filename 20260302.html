@@ -2,7 +2,12 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Circulo">
+<meta name="theme-color" content="#FFFFFF">
+<link rel="manifest" href="/circulo/manifest.webmanifest">
 <title>Círculo - 02/03/2026</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -272,5 +277,12 @@ Aprende a tirar das quedas, impulso; da morte, vida."</blockquote>
 <p class="resp"><span class="red">V/.</span> Amém.</p>
 </div>
 
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/circulo/sw.js', { scope: '/circulo/' });
+  });
+}
+</script>
 </body>
 </html>

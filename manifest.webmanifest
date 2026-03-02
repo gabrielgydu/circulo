@@ -1,0 +1,10 @@
+{
+  "name": "Circulo",
+  "short_name": "Circulo",
+  "start_url": "/circulo/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "orientation": "portrait",
+  "icons": []
+}

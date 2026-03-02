@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Circulo">
+<meta name="theme-color" content="#FFFFFF">
+<link rel="manifest" href="/circulo/manifest.webmanifest">
+<title>Circulo</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 17px;
+    line-height: 1.55;
+    color: #222;
+    padding: 1.2em;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  h1 { font-size: 1.5em; margin: 1em 0 0.5em; }
+  h2 { font-size: 1.3em; margin: 1.2em 0 0.4em; }
+  h3 { font-size: 1.15em; margin: 1em 0 0.3em; }
+  h4 { font-size: 1.05em; margin: 0.8em 0 0.3em; }
+  p { margin: 0.5em 0; }
+  blockquote {
+    border-left: 3px solid #b00;
+    margin: 0.6em 0;
+    padding: 0.3em 0 0.3em 0.8em;
+    color: #333;
+    font-style: italic;
+  }
+  ul, ol { margin: 0.3em 0 0.3em 1.4em; }
+  li { margin: 0.2em 0; }
+  li ul, li ol { margin: 0.1em 0 0.1em 1.2em; }
+  .red { color: #c00; }
+  hr { border: none; border-top: 1px solid #999; margin: 1.5em 0; }
+  strong { font-weight: bold; }
+</style>
+</head>
+<body>
+$body$
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/circulo/sw.js', { scope: '/circulo/' });
+  });
+}
+</script>
+</body>
+</html>
